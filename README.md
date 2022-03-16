@@ -12,4 +12,6 @@ Layouts
  Type            | Preview Image
  --------------- | :-----------------------------------------------:
  Horizontal Logo | <img src="Branding/RealityCollective_HorizontalLogo_1024.png?raw=true" />
+ Vertical Logo   | <img src="Branding/RealityCollectiveVerticalLogo_1024.png?raw=true" />
  Square Logo     | <img src="Branding/RealityCollectiveLogo_256.png?raw=true" />
+ Banner          | <img src="Branding/RealityCollectiveBanner_600x300.png?raw=true" />
