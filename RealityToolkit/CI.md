@@ -24,3 +24,7 @@ Reality Toolkit
 ```text
 #C9226B
 ```
+
+## Font
+
+The font for the toolkit logo is `Titillium Web`.
