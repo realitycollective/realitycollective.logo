@@ -1,0 +1,54 @@
+{
+    "stable": [
+        {
+            "packageName": "RealityToolkit.Core",
+            "packageIdentifier": "com.realitytoolkit.core"
+        },
+        {
+            "packageName": "RealityToolkit.Player",
+            "packageIdentifier": "com.realitytoolkit.player"
+        },
+        {
+            "packageName": "RealityToolkit.Locomotion",
+            "packageIdentifier": "com.realitytoolkit.locomotion"
+        },
+        {
+            "packageName": "RealityToolkit.MetaPlatform",
+            "packageIdentifier": "com.realitytoolkit.metaplatform"
+        },
+        {
+            "packageName": "RealityToolkit.Pico",
+            "packageIdentifier": "com.realitytoolkit.pico"
+        }
+    ],
+    "inDevelopment": [
+        {
+            "packageName": "RealityToolkit.OpenXR",
+            "packageIdentifier": "com.realitytoolkit.openxr"
+        },
+        {
+            "packageName": "RealityToolkit.DeviceSimulation",
+            "packageIdentifier": "com.realitytoolkit.devicesimulation"
+        },
+        {
+            "packageName": "RealityToolkit.DeveloperTools",
+            "packageIdentifier": "com.realitytoolkit.devtools"
+        },
+        {
+            "packageName": "RealityToolkit.Boundary",
+            "packageIdentifier": "com.realitytoolkit.boundary"
+        },
+        {
+            "packageName": "RealityToolkit.SpatialAwareness",
+            "packageIdentifier": "com.realitytoolkit.spatial-awareness"
+        },
+        {
+            "packageName": "RealityToolkit.SpatialPersistence",
+            "packageIdentifier": "com.realitytoolkit.spatial-persistence"
+        },
+        {
+            "packageName": "RealityToolkit.Samples",
+            "packageIdentifier": "com.realitytoolkit.samples"
+        }
+    ]
+}
